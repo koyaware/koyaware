@@ -4,9 +4,9 @@ Hi, I'm @koyaware, my name is Ilyor
 </h1>
 
 
-<a href="https://github.com/koyaware"><img src="https://img.shields.io/github/followers/koyaware.svg?style=social&label=Follow&maxAge=2592000" alt="" align="left"></a>
-<h3 align="right">Profile views</h3>
-<img src="https://count.getloli.com/get/@koyaware?theme=rule34" alt="" srcset="" align="right">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SaD-Pr0gEr">
+</a>
 
 <div align="left">
     <a href="https://t.me/RunDelChaOs"><img src="https://img.shields.io/badge/@RunDelChaOs-30302f?style=flat-square&logo=telegram" alt="" srcset=""></a>
