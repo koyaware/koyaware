@@ -22,7 +22,6 @@ Hi, I'm @koyaware, my name is Ilyor
     <li>💬 I mostly use <strong><a href="http://telegram.dog/RunDelChaOs" target="_blank" rel="noopener noreferrer">Telegram</a></strong>.</li>
     <li>👨‍💻 Most of my projects are based on Python.</li>
     <li>📫 You can find me by email <b>koyaware@gmail.com</b></li>
-    <li>💡 <b>Nothing remains the same</b>, <s>everything and everyone</s> <b>changes</b>. It's a basic law of nature.</li>
 </ul>
 
 ## <img src="https://tenor.com/ru/view/kobayashi-kobayashi-dragon-maid-dragon-maid-write-gif-22973406.gif" width="50"> Programming languages and tools:
