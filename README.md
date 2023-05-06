@@ -1,5 +1,3 @@
-<!-- <a href="#"><img width="100%" height="500px" src="https://i.pinimg.com/originals/33/46/92/334692bc0b661ceb6962376174ee125a.png" height="175px"/></a> -->
-
 <h1 align="center">
 <img src="https://tenor.com/ru/view/love-anime-gif-24050747.gif" width="50">
 Hi, I'm @koyaware, my name is Ilyor
@@ -16,7 +14,7 @@ Hi, I'm @koyaware, my name is Ilyor
 
 ## <img src="https://tenor.com/ru/view/dance-anime-chibi-gif-22024753.gif" width="50"> A Few Quick Facts
 <br>
-<a href="https://github.com/koyaware"><img align="right" height="auto" width="40%" src="https://www.teahub.io/photos/full/288-2885603_synthwave-wallpaper-gif.gif" style="right:0px" /></a>
+<a href="https://github.com/koyaware"><img align="right" height="auto" width="40%" src="https://tenor.com/ru/view/sky-kimionawa-your-name-anime-gif-17883443.gif" style="right:0px" /></a>
 
 <ul>
     <li>🧐 Currently actively work with <strong>Python</strong> and learning <strong>Frontend Technologies.</strong></li>
