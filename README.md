@@ -5,9 +5,9 @@ Hi, I'm @koyaware, my name is Ilyor
 
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SaD-Pr0gEr">
+    <img src="https://komarev.com/ghpvc/?username=koyaware">
 </a>
-<a href="https://github.com/SaD-Pr0gEr?tab=followers"><img src="https://img.shields.io/github/followers/SaD-Pr0gEr?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/koyaware?tab=followers"><img src="https://img.shields.io/github/followers/koyaware?label=Follow&style=social" alt="GitHub Badge"></a>
 
 <div align="left">
     <a href="https://t.me/RunDelChaOs"><img src="https://img.shields.io/badge/@RunDelChaOs-30302f?style=flat-square&logo=telegram" alt="" srcset=""></a>
