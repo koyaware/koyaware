@@ -18,7 +18,7 @@ Hi, I'm @koyaware, my name is Ilyor
 <a href="https://github.com/koyaware"><img align="right" height="auto" width="40%" src="https://tenor.com/ru/view/sky-kimionawa-your-name-anime-gif-17883443.gif" style="right:0px" /></a>
 
 <ul>
-    <li>🧐 Currently actively work with <strong>Python</strong> and learning <strong>Frontend Technologies.</strong></li>
+    <li>🧐 Currently actively work with <strong>Python</strong>(bots, server side of sites(backend), etc.)</strong></li>
     <li>💕 Opensource.</li>
     <li>💬 I mostly use <strong><a href="http://telegram.dog/RunDelChaOs" target="_blank" rel="noopener noreferrer">Telegram</a></strong>.</li>
     <li>👨‍💻 Most of my projects are based on Python.</li>
