@@ -13,7 +13,7 @@ Hi, I'm @koyaware, my name is Ilyor
     <a href="https://t.me/RunDelChaOs"><img src="https://img.shields.io/badge/@RunDelChaOs-30302f?style=flat-square&logo=telegram" alt="" srcset=""></a>
 </div>
 
- <img src="https://tenor.com/ru/view/dance-anime-chibi-gif-22024753.gif" width="50"> A Few Quick Facts
+ <img src="https://tenor.com/ru/view/dance-anime-chibi-gif-22024753.gif" width="50"> <h3> A Few Quick Facts </h3>
 <br>
 <a href="https://github.com/koyaware"><img align="right" height="auto" width="40%" src="https://tenor.com/ru/view/sky-kimionawa-your-name-anime-gif-17883443.gif" style="right:0px" /></a>
 
@@ -47,7 +47,7 @@ Hi, I'm @koyaware, my name is Ilyor
     </a>
 </p>
 
- <img src="https://tenor.com/ru/view/kawaii-anime-girl-cry-rain-gif-18044372.gif" width="50"> My GitHub stats
+ <img src="https://tenor.com/ru/view/kawaii-anime-girl-cry-rain-gif-18044372.gif" width="50"> <h3> My GitHub stats </h3>
 
   <br/>
   <div>
